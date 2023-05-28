@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rick/Project/C++ Dev/adventures_of_moonman",
+      "program": "/Users/rick/Project/C++ Dev/adventures_of_moonman/build/Debug/outDebug"
+    }
+  ]
+}
